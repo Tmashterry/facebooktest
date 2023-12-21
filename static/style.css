@@ -1,0 +1,82 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f2f5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  #login-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 300px;
+  }
+  
+  h2 {
+    color: #385898;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    color: #808080;
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  
+  #login-form {
+    text-align: left;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    color: #808080;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: #1877f2;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #166fe5;
+  }
+  
+  #forgotten-password {
+    margin-top: 10px;
+    color: #385898;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  #create-account {
+    margin-top: 20px;
+    color: #385898;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
