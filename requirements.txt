@@ -1,6 +1,4 @@
 Flask==2.0.1
 Werkzeug==2.0.0
 Gunicorn==20.1.0
-smtplib==3.4.0
-email==6.0.0
 
